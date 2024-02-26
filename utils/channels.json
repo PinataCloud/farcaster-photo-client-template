@@ -1,0 +1,38 @@
+[
+  {
+   "name": "/photography",
+    "url": "chain://eip155:7777777/erc721:0x36ef4ed7a949ee87d5d2983f634ae87e304a9ea2"
+  },
+  {
+    "name": "/travel",
+    "url": "chain://eip155:7777777/erc721:0x917ef0a90d63030e6aa37d51d7e6ece440ace537"
+  },
+  {
+    "name": "/streetphotos",
+    "url": "https://warpcast.com/~/channel/streetphotos"
+  },
+  {
+    "name": "/film-photography",
+    "url": "https://warpcast.com/~/channel/film-photography"
+  },
+  {
+    "name": "/mountains",
+    "url": "https://warpcast.com/~/channel/mountains"
+  },
+  {
+    "name": "/itookaphoto",
+    "url": "https://warpcast.com/~/channel/itookaphoto"
+  },
+  {
+    "name": "/art",
+    "url": "chain://eip155:1/erc721:0x1538c5ddbb073638b7cd1ae41ec2d9f9a4c24a7e"
+  },
+  {
+    "name": "/food",
+    "url": "chain://eip155:1/erc721:0xec0ba367a6edf483a252c3b093f012b9b1da8b3f"
+  },
+  {
+    "name": "/nature",
+    "url": "chain://eip155:7777777/erc721:0xf6a7d848603aff875e4f35025e5c568679ccc17c"
+  }
+]
